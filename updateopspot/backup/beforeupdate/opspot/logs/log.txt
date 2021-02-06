@@ -1,0 +1,38 @@
+Fri  1 Feb 01:42:40 GMT 2019 2019/02/01 01:42:40 INFO  : python-telegram-bot.py: Copied (new)
+Fri  1 Feb 01:42:40 GMT 2019 2019/02/01 01:42:40 INFO  : 
+Fri  1 Feb 01:42:40 GMT 2019 Transferred:   	   37.337k / 37.337 kBytes, 100%, 1.264 kBytes/s, ETA 0s
+Fri  1 Feb 01:42:40 GMT 2019 Errors:                 0
+Fri  1 Feb 01:42:40 GMT 2019 Checks:                 0 / 0, -
+Fri  1 Feb 01:42:40 GMT 2019 Transferred:            1 / 1, 100%
+Fri  1 Feb 01:42:40 GMT 2019 Elapsed time:       29.5s
+Fri  1 Feb 01:42:40 GMT 2019 
+Fri  1 Feb 01:47:18 GMT 2019 2019/02/01 01:47:18 INFO  : 
+Fri  1 Feb 01:47:18 GMT 2019 Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Fri  1 Feb 01:47:18 GMT 2019 Errors:                 0
+Fri  1 Feb 01:47:18 GMT 2019 Checks:                 1 / 1, 100%
+Fri  1 Feb 01:47:18 GMT 2019 Transferred:            0 / 0, -
+Fri  1 Feb 01:47:18 GMT 2019 Elapsed time:        3.4s
+Fri  1 Feb 01:47:18 GMT 2019 
+Fri  1 Feb 02:03:50 GMT 2019   File "/home/pi/scripts/opspot/python-telegram-bot.py", line 91
+Fri  1 Feb 02:03:50 GMT 2019     else if checkversion > releaseversion:
+Fri  1 Feb 02:03:50 GMT 2019           ^
+Fri  1 Feb 02:03:50 GMT 2019 SyntaxError: invalid syntax
+Fri  1 Feb 04:06:30 GMT 2019   File "/home/pi/scripts/opspot/python-telegram-bot.py", line 91
+Fri  1 Feb 04:06:30 GMT 2019     else if checkversion > releaseversion:
+Fri  1 Feb 04:06:30 GMT 2019           ^
+Fri  1 Feb 04:06:30 GMT 2019 SyntaxError: invalid syntax
+Fri  1 Feb 04:18:52 GMT 2019 2019/02/01 04:18:52 INFO  : python-telegram-bot.py: Copied (replaced existing)
+Fri  1 Feb 04:18:52 GMT 2019 2019/02/01 04:18:52 INFO  : 
+Fri  1 Feb 04:18:52 GMT 2019 Transferred:   	   37.928k / 37.928 kBytes, 100%, 10.575 kBytes/s, ETA 0s
+Fri  1 Feb 04:18:52 GMT 2019 Errors:                 0
+Fri  1 Feb 04:18:52 GMT 2019 Checks:                 0 / 0, -
+Fri  1 Feb 04:18:52 GMT 2019 Transferred:            1 / 1, 100%
+Fri  1 Feb 04:18:52 GMT 2019 Elapsed time:        3.5s
+Fri  1 Feb 04:18:52 GMT 2019 
+Fri  1 Feb 04:19:39 GMT 2019 2019/02/01 04:19:39 INFO  : 
+Fri  1 Feb 04:19:39 GMT 2019 Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Fri  1 Feb 04:19:39 GMT 2019 Errors:                 0
+Fri  1 Feb 04:19:39 GMT 2019 Checks:                 1 / 1, 100%
+Fri  1 Feb 04:19:39 GMT 2019 Transferred:            0 / 0, -
+Fri  1 Feb 04:19:39 GMT 2019 Elapsed time:        3.1s
+Fri  1 Feb 04:19:39 GMT 2019 

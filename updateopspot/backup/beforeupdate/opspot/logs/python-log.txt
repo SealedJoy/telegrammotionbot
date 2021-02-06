@@ -1,0 +1,12 @@
+started Logger: viewable at bot.log
+Running as main module Loading...
+configuration.ini was updated
+Bot started: Waiting for commands
+New version of script detected
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+after updater.idle() - main() finished
+python-telegram-bot.py will exit now

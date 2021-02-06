@@ -1,0 +1,15 @@
+Fri  1 Feb 09:40:52 GMT 2019 Started new launch-log as old one already exists - moved to prev-launch-log.txt
+----------------------------------------
+Fri  1 Feb 09:40:52 GMT 2019
+configuration.ini
+Owner: sladej
+----------------------------------------
+Fri  1 Feb 09:40:52 GMT 2019 CameraBotInterface Launcher started
+----------------------------------------
+Fri  1 Feb 09:40:52 GMT 2019 Existing log found moving to previous-python.log
+Fri  1 Feb 09:40:52 GMT 2019 Update flag was false
+Fri  1 Feb 09:40:52 GMT 2019 Bot started up
+Fri  1 Feb 09:40:52 GMT 2019 ran python-telegram-bot.py
+----------------------------------------
+Fri  1 Feb 09:40:52 GMT 2019 Launcher finished - uploading logs then exiting script
+Fri  1 Feb 09:44:48 GMT 2019 Existing launch log found moving to prev-launch-log.txt

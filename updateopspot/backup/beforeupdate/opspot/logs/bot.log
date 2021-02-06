@@ -1,0 +1,26 @@
+started Logger: viewable at bot.log
+Running as main module Loading...
+configuration.ini was updated
+Bot started: Waiting for commands
+5 mp4watch thread started
+User requested report
+#5 getimage thread launched. name: photograb
+Searching for jpgs created within the last 1 minuites in dir /camera
+Exception in thread #5photograbwhilst searching for new local photo
+no local files matched criteria - getting a still from stream
+User requested send audio
+* recording
+* done recording
+exception recording audio
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+5 mp4watch thread started
+after updater.idle() - main() finished
