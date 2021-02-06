@@ -93,7 +93,6 @@ Do I need to do anything to maintain the camera system / telegram bot?
 How do I contact the developer?
 
      - The developer will be happy to help you with any problems you may have regarding telegram, camera systems, security etc
-     - Contact Joseph Slade:
+     - Contact:
        Email: sealedjoy@gmail.com
        Telegram: @Sealyj
-       Phone: 07983629226
